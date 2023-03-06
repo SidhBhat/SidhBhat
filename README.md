@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @SidhBhat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Introduction
 
-Currently This file is just the default template.  
-Will consider updating this later.
+My name is Siddharth Bhat, But I like Sid better. And Welcome to my Github profile!
+Here I publish some random shit that I write as a hobby.
 
-I'm still new on github.
-<!---
-SidhBhat/SidhBhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+There are a couple of things that really intrigue and exite me, these are computers,
+mathematics and physics. Physics for me is just a playground for the latter two. I really
+am passionate about these topics. Much of the code I write has some mathematical or physical
+implication.
+
+I am formally not trained in code, everything I have learnt was learnt by myself, a lot during the
+global pandemic and subsequent lockdowns. I can testify I have some expertise on `C` & `C++`,
+octave/matlab, and a bunch of scripting langauges and tools ('bash' and related shells, `awk`,
+system administration on linux, and obviously `git`).
+
+I am currently studying undergradute B. Sc (Bachlor of Science), and am based in Banglore.
