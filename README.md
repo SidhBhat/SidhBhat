@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Siddharth Bhat, But I like Sid better. And Welcome to my Github profile!
+Hello I am Siddharth. And Welcome to my Github profile!
 Here I publish some random shit that I write as a hobby.
 
 There are a couple of things that really intrigue and exite me, these are computers,
