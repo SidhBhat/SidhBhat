@@ -8,7 +8,7 @@ mathematics and physics. Physics for me is just a playground for the latter two.
 am passionate about these topics. Much of the code I write has some mathematical or physical
 implication.
 
-I am formally not trained in code, everything I have learnt was learnt by myself, a lot during the
+I am formally not trained in code, everything I have learnt I learnt myself, a lot during the
 global pandemic and subsequent lockdowns. I can testify I have some expertise on `C` & `C++`,
 octave/matlab, and a bunch of scripting langauges and tools ('bash' and related shells, `awk`,
 system administration on linux, and obviously `git`).
